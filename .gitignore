@@ -1,0 +1,7 @@
+.vscode
+/images
+*.cmake
+CMakeCache.txt
+Makefile
+Demo
+/CMakeFiles
